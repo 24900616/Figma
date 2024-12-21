@@ -30,7 +30,7 @@ Figma
 
 # CODE:
 ```
-page 1:
+Home page:
 <style>
   .events-container {
     display: flex;
@@ -158,7 +158,7 @@ page 1:
   </div>
 </div>
 
-page 2:
+Events pages:
 
 <style>
   .cultural-events-container {
@@ -372,7 +372,7 @@ page 2:
   </div>
 </div>
 
-page 3:
+Events Registration:
 
 <style>
 .registration-container {
@@ -614,7 +614,7 @@ page 3:
   </div>
 </div>
 
-page 4:
+Contact page:
 
 <style>
 .thank-you-container {
